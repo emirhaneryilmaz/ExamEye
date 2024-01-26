@@ -11,7 +11,9 @@ This application automatically checks the university's exam results web page at 
 - **Email Notifications:** When new exam results are detected, the application takes a screenshot and sends it to the specified email address as a notification.
 
 ## Configuration
+
 Before using the application, you need to configure the config.js file.
+
 ```bash
 const Config = {
     from: 'SENDER_EMAIL'
@@ -24,9 +26,8 @@ const Config = {
 
 module.exports = Config;
 ```
-## Installation
 
-This section should include steps on how to install and set up the application. Example:
+## Installation
 
 ```bash
 git clone https://github.com/emirhaneryilmaz/ExamEye.git
