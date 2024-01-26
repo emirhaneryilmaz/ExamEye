@@ -32,3 +32,4 @@ This section should include steps on how to install and set up the application. 
 git clone https://github.com/emirhaneryilmaz/ExamEye.git
 cd ExamEye
 npm install
+node index.js
